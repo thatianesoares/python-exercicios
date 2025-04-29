@@ -1,2 +1,11 @@
-# python-exercicios
-Repositório com os exercícios práticos que estou resolvendo no curso de Python (Curso em Vídeo, por Gustavo Guanabara). Aqui você encontra desafios simples de lógica para iniciantes. 🚀  ✔️ Sintaxe básica ✔️ Manipulação de strings ✔️ Estruturas de decisão e repetição ✔️ Funções, listas e muito mais!
+# Exercícios Python 🐍
+
+Repositório com exercícios simples de Python resolvidos durante meus estudos com o **Curso em Vídeo** (prof. Gustavo Guanabara).
+
+## Conteúdo
+- Entrada e saída de dados
+- Manipulação de strings
+- Operações básicas
+- Condições (`if`, `else`)
+- Laços de repetição (`for`, `while`)
+- Funções e listas (em breve!)
